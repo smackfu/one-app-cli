@@ -6,7 +6,7 @@
   "command": {
     "version": {
       "conventionalCommits": true,
-      "message": "chore(release): publish packages",
+      "message": "chore(release): publish packages \n\nskip-checks: true",
       "ignoreChanges": ["**/*.md", "**/*.txt", "**/__tests__/**"]
     }
   },
