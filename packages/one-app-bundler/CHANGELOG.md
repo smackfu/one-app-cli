@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [6.15.0](https://github.com/americanexpress/one-app-cli/compare/@americanexpress/one-app-bundler@6.14.2...@americanexpress/one-app-bundler@6.15.0) (2022-02-22)
+
+
+### Features
+
+* **bundler-parser:** @babel/eslint-parser ([#439](https://github.com/americanexpress/one-app-cli/issues/439)) ([cf6cec8](https://github.com/americanexpress/one-app-cli/commit/cf6cec8fa4eacf70cf26f521c16b0669a96f8559))
+
+
+
+
+
 ## [6.14.2](https://github.com/americanexpress/one-app-cli/compare/@americanexpress/one-app-bundler@6.14.0...@americanexpress/one-app-bundler@6.14.2) (2022-01-18)
 
 
